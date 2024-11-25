@@ -97,7 +97,3 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar
 
 ## **8. Licença**  
 Este projeto está sob a licença MIT. Consulte o arquivo `LICENSE` para mais detalhes.
-
----  
-
-Pronto para publicar no GitHub! Se precisar de mais alguma coisa, é só avisar. 😊
