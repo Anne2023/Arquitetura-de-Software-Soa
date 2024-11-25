@@ -1,7 +1,3 @@
-Segue o conteúdo no formato de README para o seu projeto no GitHub:  
-
----
-
 # **Seminário de Arquitetura de Software - Implementação SOA com Flask**
 
 Este projeto demonstra os conceitos da Arquitetura Orientada a Serviços (SOA) por meio de um sistema simples de reserva de hotel, utilizando Python e o framework Flask. A implementação foca na separação de responsabilidades e na comunicação entre serviços de forma modular.
